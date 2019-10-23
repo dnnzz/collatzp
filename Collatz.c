@@ -10,7 +10,7 @@ int main()
 
 		do
 		{
-			printf("Pozitif bir sayý giriniz.\n"); 
+			printf("Pozitif bir sayi giriniz.\n"); 
   			scanf("%d", &a);	
 		}while (a <= 0);
 
